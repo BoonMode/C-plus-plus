@@ -1,2 +1,2 @@
-# C plus plus
+# C++
 General C++ things.
